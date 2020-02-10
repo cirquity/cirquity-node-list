@@ -1,0 +1,16 @@
+{
+  "nodes": [
+    {
+      "name": "Official EU West Node",
+      "url": "west.eu.cirquity.com",
+      "port": 18128,
+      "ssl": false
+    },
+    {
+      "name": "Official EU East Node",
+      "url": "east.eu.cirquity.com",
+      "port": 18128,
+      "ssl": false
+    }
+  ]
+}
