@@ -5,14 +5,14 @@
       "url": "5.135.184.167",
       "port": 18128,
       "ssl": false,
-      "fee": 0.0
+      "fee": 0
     },
     {
       "name": "Official EU East Node",
       "url": "5.135.185.107",
       "port": 18128,
       "ssl": false,
-      "fee": 0.0
+      "fee": 0
     }
   ]
 }
