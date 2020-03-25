@@ -13,6 +13,13 @@
       "port": 18128,
       "ssl": false,
       "fee": 0
+    },
+    {
+      "name": "Official ASIA East Node",
+      "url": "51.79.157.175",
+      "port": 18128,
+      "ssl": false,
+      "fee": 0
     }
   ]
 }
