@@ -6,7 +6,7 @@
       "port": 18128,
       "ssl": false,
       "fee": 0,
-      "online": false
+      "online": true
     },
     {
       "name": "Official EU East Node",
@@ -14,7 +14,7 @@
       "port": 18128,
       "ssl": false,
       "fee": 0,
-      "online": false
+      "online": true
     },
     {
       "name": "Official ASIA East Node",
@@ -22,7 +22,7 @@
       "port": 18128,
       "ssl": false,
       "fee": 0,
-      "online": false
+      "online": true
     }
   ]
 }
