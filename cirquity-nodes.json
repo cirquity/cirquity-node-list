@@ -2,7 +2,7 @@
   "nodes": [
     {
       "name": "Official EU West Node",
-      "url": "5.135.184.167",
+      "url": "europe-west.nodes.cirq.io",
       "port": 18128,
       "ssl": false,
       "fee": 0,
@@ -10,7 +10,7 @@
     },
     {
       "name": "Official EU East Node",
-      "url": "5.135.185.107",
+      "url": "europe-east.nodes.cirq.io",
       "port": 18128,
       "ssl": false,
       "fee": 0,
@@ -18,7 +18,7 @@
     },
     {
       "name": "Official ASIA East Node",
-      "url": "51.79.157.175",
+      "url": "asia-east.nodes.cirq.io",
       "port": 18128,
       "ssl": false,
       "fee": 0,
