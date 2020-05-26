@@ -23,6 +23,14 @@
       "ssl": false,
       "fee": 0,
       "online": true
+    },
+    {
+      "name": "SuperBlockchain Node",
+      "url": "superblockchain.con-ip.com",
+      "port": 18128,
+      "ssl": false,
+      "fee": 1000,
+      "online": true
     }
   ]
 }
